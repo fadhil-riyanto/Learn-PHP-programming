@@ -13,35 +13,6 @@ echo "Komputer : aku cantik ga? ";
 $cantik = fopen("php://stdin","r");
 $cantik1 = trim(fgets($cantik));
 echo "Komputer : Makasih....i love you internsial node".PHP_EOL;
-//cetak gambar
-echo "     ".PHP_EOL;
-echo "   ".PHP_EOL;
-echo " ".PHP_EOL;
-echo "".PHP_EOL;
-echo "".PHP_EOL;
-echo "".PHP_EOL;
-echo "".PHP_EOL;
-echo "".PHP_EOL;
-echo "".PHP_EOL;
-echo "".PHP_EOL;
-echo " ".PHP_EOL;
-echo "  ".PHP_EOL;
-echo "               ".PHP_EOL;
-echo "     I Love You ".PHP_EOL;
-echo "                 ".PHP_EOL;
-echo "      ".PHP_EOL;
-echo "       ".PHP_EOL;
-echo "        ".PHP_EOL;
-echo "         ".PHP_EOL;
-echo "          ".PHP_EOL;
-echo "           ".PHP_EOL;
-echo "            ".PHP_EOL;
-echo "             ".PHP_EOL;
-echo "              ".PHP_EOL;
-echo "               ".PHP_EOL;
-echo "                ".PHP_EOL;
-echo "                 ".PHP_EOL;
-echo "                  ".PHP_EOL;
-echo "                   ".PHP_EOL;
+
 //udah itu aja
 ?>
